@@ -24,11 +24,12 @@ export class HomeComponent
   ntc2 = 10;
   ntd2 = 10;
   media2 = ( this.nta2 + this.ntb2 + this.ntc2 + this.ntd2 )/ 4;
-  
+
   aprovado: string = "../../../assets/aprovado.jpg"
   namedia: string = "../../../assets/namedia.jpg"
   reprovado: string = "../../../assets/reprovado.jpg"
-  perfil: string = "../../../assets/main.jpg"
+  perfil: string = "../../../assets/man.jpg"
+  repro: string = "..//../../assets/repro.jpeg"
 constructor() {
 
               }

@@ -1,11 +1,11 @@
 .card-body{
-background-color: rgb(214, 209, 209);
+background-color: rgb(146, 50, 138);
 }
 body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(to bottom, #FFDAB9, #FFA500, #FF6347);
+  background-image: linear-gradient(to bottom, #6dfc60, #FFA500, #FF6347);
 
 }
 

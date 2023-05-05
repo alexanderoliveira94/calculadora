@@ -1,6 +1,6 @@
 body{
   display:flex;
   justify-content: center;
-  background-image: linear-gradient(to bottom, #fffefe, #616986, #110255);
+  background-image: linear-gradient(to bottom, #fffefe, #21e288, #110255);
   height: 48rem;
 }
